@@ -2,6 +2,16 @@
 
 Welcome to the ABIF Fiji Workshop, given on March 4-6 2025! The goal of this workshop is to help you familiarize yourself several functions in Fiji / ImageJ in order to help with preparing figures for publication as well as performing quantitative image analysis on your microscopy images.
 
+![image](https://user-images.githubusercontent.com/64212264/137986096-b68d5a8d-b4c3-4812-b15f-a74eeb6c8a06.png)
+
+
+<br>
+
+**Please download the demo image sets from this repository** by clicking on the green Code button, and then "Download ZIP". Then, you can extract images (ending in .tif) in Windows / OS X.
+
+
+
+
 On Tuesday March 4th, we'll largely cover how to handle images in Fiji and prepare them for visualization, largely in the context of preparing figures. Along the way, we'll talk about scripting, which involves writing macros in Fiji to streamline the execution of image processing steps, in order to reduce the burden on us humans.
 
 On Wednesday, we'll look more closely at how we try to extract quantitative data from our images, what are the main steps and challenges.
