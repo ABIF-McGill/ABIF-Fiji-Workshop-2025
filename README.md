@@ -30,3 +30,8 @@ Finally, we ask that you keep an open mind as we go through the example data set
 ## Tuesday March 4th
 
 First, we'll open a 3-channel image, acquired on a Zeiss widefield microscope. We'll discuss image properties, metadata, how to adjust contrast, and LUTs
+
+## Wednesday March 5th
+
+We'll discuss the basics of object identification (segmentation) based on thresholding. We'll apply thresholding to an image, generate ROIs and measure intensity in other channels. 
+We'll dive a bit deeper into scripting, and write scripts to automatically do segmentation in simple images.
